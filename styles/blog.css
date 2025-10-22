@@ -1,0 +1,23 @@
+.name{
+    
+    border-radius: 10px;
+    background-color: rgb(201, 238, 133);
+    width: 300px;
+    margin: 10px;
+    /* padding: auto; */
+    text-align: center;
+    padding: 10px 10px;
+    box-shadow: 0px 5px 3px 0px black;
+}
+
+ul
+{
+ text-align: left;
+}
+.btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: tomato;
+}
